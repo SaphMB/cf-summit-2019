@@ -2,6 +2,8 @@
 
 References and resources used for the talk, *Humanising Onboarding: Helping New Team Members Find their Feet in the World of Cloud Foundry* at the Cloud Foundry Summit EU conference at The Hague.
 
+[APA Dictionary](http://dictionary.apa.org)
+
 Bandura, A. (1982). Self-efficacy mechanism in human agency. American psychologist, 37(2), 122.
 
 Bandura, A. (1977). Self-efficacy: toward a unifying theory of behavioral change. Psychological review, 84(2), 191.
